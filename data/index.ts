@@ -74,22 +74,22 @@ export const projects = [
     id: 1,
     title: "Predictive Maintenance",
     des: " Model that can predict machine failures, thereby preventing unplanned downtime and optimizing maintenance schedules..",
-    img: "/ds.svg",
-    link: "/ibm.com",
+    img: "/p1.png",
+    link: "https://github.com/venkateshblks/Predictive-Maintenance-Classification",
   },
   {
     id: 2,
     title: "Flight-Price-Prediction ",
     des: "To predict the prices of airline tickets.",
-    img: "/ds.svg",
-    link: "/ibm.com",
+    img: "/p2.jpeg",
+    link: "https://github.com/venkateshblks/Flight-Price-Prediction",
   },
   {
     id: 3,
     title: "NLP-password-strength",
     des: "Predict Password Strength using Natural Language Processing..",
-    img: "/ds.svg",
-    link: "/ui.aiimg.com",
+    img: "/pass.jpeg",
+    link: "https://github.com/venkateshblks/NLP-password-strength",
   },
   {
     id: 4,
@@ -97,7 +97,7 @@ export const projects = [
     des: "Developed an artificial neural network model to predict handwritten alphabet characters..",
     img: "/ds.svg",
     // iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "/ui.apple.com",
+    link: "https://github.com/venkateshblks/Neural-networks",
   },
 ];
 
@@ -202,13 +202,15 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
+    link:'https://github.com/venkateshblks'
   },
+  // {
+  //   id: 2,
+  //   img: "/twit.svg",
+  // },
   {
     id: 2,
-    img: "/twit.svg",
-  },
-  {
-    id: 3,
     img: "/link.svg",
+    link:'https://www.linkedin.com/in/venkateswararao-bantupalli-19378420a'
   },
 ];
